@@ -72,7 +72,7 @@ in
     pkgs.joshuto
     pkgs.lazygit
     pkgs.gh # github cli 可以通过浏览器验证,配合lazygit可以方便的push
-    pkgs.gitui
+    # pkgs.gitui # lazygit 支持vim-like快捷键，这个不支持
 
     # unstable
     pkgsUnstable.vscode
