@@ -71,10 +71,11 @@ in
     pkgs.btop
     pkgs.joshuto
     pkgs.lazygit
+    pkgs.gh # github cli 可以通过浏览器验证,配合lazygit可以方便的push
+    pkgs.gitui
 
     # unstable
     pkgsUnstable.vscode
-    pkgs.gh # github cli 可以通过浏览器验证,配合lazygit可以方便的push
 
     # nerd font patcher的依赖
     # pkgs.fontforge
