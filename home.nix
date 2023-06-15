@@ -76,6 +76,7 @@ in
 
     # unstable
     pkgsUnstable.vscode
+    pkgsUnstable.emacs
 
     # nerd font patcher的依赖
     # pkgs.fontforge
