@@ -126,9 +126,4 @@ in
 
   # Let Home Manager install and manage itself.
   programs.home-manager.enable = true;
-
-  # 自动优化 nix-store
-  nix.settings = {
-    auto-optimise-store = true;
-  };
 }
