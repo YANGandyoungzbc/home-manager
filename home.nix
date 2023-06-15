@@ -93,6 +93,7 @@ in
     # default install location is ~/.nix-profile/share/fonts
     # use sudo ln to link it to ~/.local/share/
     pkgs.maple-mono-SC-NF
+    pkgs.inconsolata-nerdfont
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
