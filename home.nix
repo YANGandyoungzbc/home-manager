@@ -75,6 +75,7 @@ in
     # pkgs.gitui # lazygit 支持vim-like快捷键，这个不支持
     pkgs.zellij
     pkgs.ripgrep
+    pkgs.tree
 
     # unstable
     pkgsUnstable.vscode
